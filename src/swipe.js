@@ -7,7 +7,7 @@ var swiper = new Swiper('.swiper', {
   direction: 'horizontal',
   rewind: true,
 
-  // If we need pagination
+  // If we need pagination jrg;aljg;lg
   pagination: {
     el: '.swiper-pagination',
     clickable: true,
